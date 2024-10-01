@@ -6,4 +6,4 @@ git config --list ------------------------>[to see the configerations using list
 
 git status ------------------>[to see Untracked files.]
 
-git commit -m "message" --->to go from local repositery
+git add -A --->to go from local repositery
